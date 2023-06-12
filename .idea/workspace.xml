@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-app/hello-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studysepro.iml" afterDir="false" />
+    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="this is study javapros!&#10;today is 0611">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +39,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xzc.testcase.BubbleSort" />
       <module name="hello-app" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetArrMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.testcase.GetArrMax" />
+    <configuration name="CopyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.copyArray.CopyArr" />
       <module name="hello-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.testcase.*" />
+          <option name="PATTERN" value="com.xzc.copyArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.testcase.GuessNums" />
+    <configuration name="CreateCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.createCode.CreateCode" />
       <module name="hello-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.testcase.*" />
+          <option name="PATTERN" value="com.xzc.createCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RamdomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.testcase.RamdomTest" />
+    <configuration name="FindSushu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.findSushu.FindSushu" />
       <module name="hello-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.testcase.*" />
+          <option name="PATTERN" value="com.xzc.findSushu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.testcase.RandomRank" />
-      <module name="hello-app" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.createpbject.Test1" />
+      <module name="oop-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.testcase.*" />
+          <option name="PATTERN" value="com.xzc.createpbject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.CopyArr" />
+        <item itemvalue="Application.CreateCode" />
+        <item itemvalue="Application.FindSushu" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.RandomRank" />
-        <item itemvalue="Application.GuessNums" />
-        <item itemvalue="Application.GetArrMax" />
-        <item itemvalue="Application.RamdomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +132,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686229185017</updated>
-      <workItem from="1686229187079" duration="17757000" />
+      <workItem from="1686229187079" duration="18724000" />
+      <workItem from="1686533436888" duration="167000" />
+      <workItem from="1686575216318" duration="6104000" />
     </task>
+    <task id="LOCAL-00001" summary="this is study javapros!&#10;today is 0611">
+      <created>1686485615373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686485615373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is study javapros!&#10;today is 0611" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is study javapros!&#10;today is 0611" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
