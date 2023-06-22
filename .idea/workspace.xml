@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="this is study javapros!&#10;today is 0612">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-app/src/com/xzc/shoppingCart/ShopcarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-app/src/com/xzc/shoppingCart/ShopcarTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="today is 0622" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -147,7 +148,7 @@
       <workItem from="1686533436888" duration="167000" />
       <workItem from="1686575216318" duration="9972000" />
       <workItem from="1686979706893" duration="19133000" />
-      <workItem from="1687312960405" duration="16702000" />
+      <workItem from="1687312960405" duration="17060000" />
     </task>
     <task id="LOCAL-00001" summary="this is study javapros!&#10;today is 0611">
       <created>1686485615373</created>
@@ -170,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686582437638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="today is 0622">
+      <created>1687440889767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687440889767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +198,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is study javapros!&#10;today is 0611" />
     <MESSAGE value="this is study javapros!&#10;today is 0612" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is study javapros!&#10;today is 0612" />
+    <MESSAGE value="today is 0622" />
+    <option name="LAST_COMMIT_MESSAGE" value="today is 0622" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
