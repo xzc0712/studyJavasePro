@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="today is 0622" />
+    <list default="true" id="a5e9b858-c51e-4727-b350-928d2d186ba7" name="Changes" comment="today is 0622">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2QvLc1LavzVeulhOgso2vFOFPUm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,11 +44,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/idea_place/studysepro/javaweb_JDBC/lib&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -53,17 +61,21 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_place\studysepro\javaweb_JDBC\lib" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xzc.d1_jdbc" />
       <recent name="com.xzc.d9_interfaceDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test14">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.d1_polymorphism.Test1" />
-      <module name="Day02-oop" />
+  <component name="RunManager" selected="Application.DruidDemo">
+    <configuration name="DruidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.druid.DruidDemo" />
+      <module name="javaweb_JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.d1_polymorphism.*" />
+          <option name="PATTERN" value="com.xzc.druid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.d10_interface_jdk8.Test10" />
-      <module name="Day02-oop" />
+    <configuration name="JDBCDemo2_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.d1_jdbc.JDBCDemo2_Connection" />
+      <module name="javaweb_JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.d10_interface_jdk8.*" />
+          <option name="PATTERN" value="com.xzc.d1_jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.d14_generics.Test14" />
-      <module name="Day02-oop" />
+    <configuration name="JDBCDemo6_PreparedStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzc.d1_jdbc.JDBCDemo6_PreparedStatement" />
+      <module name="javaweb_JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.d14_generics.*" />
+          <option name="PATTERN" value="com.xzc.d1_jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,39 +109,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.d6_abstract_template.Test6" />
-      <module name="Day02-oop" />
+    <configuration name="JDBCDemo4_ResultSet.testResultSet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javaweb_JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.d6_abstract_template.*" />
+          <option name="PATTERN" value="com.xzc.d1_jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.xzc.d1_jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.xzc.d1_jdbc.JDBCDemo4_ResultSet" />
+      <option name="METHOD_NAME" value="testResultSet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzc.d9_interfaceDemo.Test9" />
-      <module name="Day02-oop" />
+    <configuration name="JDBCDemo5_ResultSet_Student.testResultSet2_Student" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javaweb_JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzc.d9_interfaceDemo.*" />
+          <option name="PATTERN" value="com.xzc.d1_jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.xzc.d1_jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.xzc.d1_jdbc.JDBCDemo5_ResultSet_Student" />
+      <option name="METHOD_NAME" value="testResultSet2_Student" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test14" />
-        <item itemvalue="Application.Test10" />
-        <item itemvalue="Application.Test9" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.DruidDemo" />
+        <item itemvalue="Application.JDBCDemo6_PreparedStatement" />
+        <item itemvalue="TestNG.JDBCDemo5_ResultSet_Student.testResultSet2_Student" />
+        <item itemvalue="TestNG.JDBCDemo4_ResultSet.testResultSet" />
+        <item itemvalue="Application.JDBCDemo2_Connection" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +170,9 @@
       <workItem from="1686533436888" duration="167000" />
       <workItem from="1686575216318" duration="9972000" />
       <workItem from="1686979706893" duration="19133000" />
-      <workItem from="1687312960405" duration="17060000" />
+      <workItem from="1687312960405" duration="17659000" />
+      <workItem from="1687693969541" duration="23491000" />
+      <workItem from="1687960582757" duration="3924000" />
     </task>
     <task id="LOCAL-00001" summary="this is study javapros!&#10;today is 0611">
       <created>1686485615373</created>
@@ -178,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687440889767</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="today is 0622">
+      <created>1687441347342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687441347342</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +220,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="0622" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
